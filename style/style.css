@@ -1,0 +1,10 @@
+* {
+    text-align: center;
+}
+
+img, button {
+    margin: auto;
+    display: block;
+    width: 200px;
+    margin-bottom: 10%;
+}
